@@ -4,7 +4,6 @@
 
 <p><img src="https://github.com/Marielle723/Marielle723/blob/main/once%20upon%20a%20time.jpg"/></p>
 
-<br/>
 
 <h3 align="left">🖊️About me</h3>
 I am fresh out of a JS, React and React Native bootcamp, ready for some challenges. On my way to become a skilled fullstack developer, I am currently building my portfolio and improving my coding skills. I also love litterature and writing about the books I read. I cannot wait to build bigger projects where creativity and logics makes our web navigation experiences prettier and easier.
@@ -24,18 +23,23 @@ I am fresh out of a JS, React and React Native bootcamp, ready for some challeng
  
 <h3 align="left">📈 My stats</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marielle723&show_icons=true&theme=dracula)
-  
-<p> <img align="right" src="https://komarev.com/ghpvc/?username=marielle723&label=Profile%20views&color=0e75b6&style=flat" alt="marielle723" /> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marielle723&show_icons=true&locale=en&layout=compact" alt="marielle723" />
 </p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marielle723&show_icons=true&theme=dracula)
+
+
+<!-- <p> <img src="https://komarev.com/ghpvc/?username=marielle723&label=Profile%20views&color=0e75b6&style=flat" alt="marielle723" /> </p> -->
+  
+
+
 
 
 <hr/>
 
 <p>
-<h3 align="left">📫 How to reach me: ...</h3>
-https://www.linkedin.com/in/marielle-pierre-victor-8065415b/
+<h3 align="left">📫 How to reach me: </h3>
+<a href="https://www.linkedin.com/in/marielle-pierre-victor-8065415b/" target="_blank">My Linkedin Profile </a>
 </p>
 
 
