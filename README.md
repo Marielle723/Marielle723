@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Marielle, I am fresh out of a JS, React and React Native bootcamp, ready for some challenges. On my way to become a skilled fullstack developer, I am currently building my portfolio and improving my coding skills. I also love litterature and writing about the books I read. I cannot wait to build bigger projects where creativity and logics makes our web navigation experiences prettier and easier.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marielle723)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Marielle723/Marielle723** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
